@@ -8,6 +8,8 @@ int main()
 	char backgroundChar = '.';
 	char foregroundChar = '#';
 
+	printf("Printing out a shape:\n");
+
 	for (int i = 0; i < height; i++)
 	{
 		for (int j = 0; j < width; j++)
